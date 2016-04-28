@@ -3,6 +3,6 @@
 <title>Git test</title>
 </head>
 <body>
-<h1>Hi.I'm mac.</h1>
+<h1>Hi.I'm CentOS.</h1>
 </body>
 </html>
